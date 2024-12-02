@@ -1,2 +1,2 @@
 # br-am
-British to American
+British to American translation API
